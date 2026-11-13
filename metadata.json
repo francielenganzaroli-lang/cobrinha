@@ -1,0 +1,6 @@
+{
+  "name": "Cobrinha — Jogo Snake",
+  "description": "Jogo clássico da cobrinha com 5 níveis progressivos, obstáculos, identificação de jogador, ranking persistente em localStorage e controles por teclado e toque.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
